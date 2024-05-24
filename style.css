@@ -1,0 +1,41 @@
+<style>
+        body{
+        background-image:url("tom.jpg.jpg");}
+#header {
+    background-color:rgb(33, 85, 65);
+    color:cornsilk;
+    text-align:center;
+    padding:7px
+       } 
+ #nav {
+    line-height:30px;
+    background-color:lightblue;
+    height:300px;
+    width:150px;
+    float:right;
+    padding:5px;	      
+}
+#section {
+    width:400px;
+    float:center;
+    padding:10px;
+    color: bisque;
+    background-color:teal}
+#footer {
+    background-color:rgb(33, 85, 65);
+    color:cornsilk;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+}
+b{ color: rgb(33, 85, 65);}
+  </style
+  body{
+    background-color: blue;
+  }
+
+  .bry{
+    background-color: blue;
+    text-align: center;
+    
+  }
